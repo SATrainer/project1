@@ -5,3 +5,4 @@
 # 08/7/2022
 #
 # v1.0
+echo Directory listing
